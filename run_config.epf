@@ -1,0 +1,7 @@
+# @title Set to always launch the last launch config
+# @description Sets the prefs to always launch the last launch config
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.LaunchLastIfNotLaunchable=true
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.UseContextualLaunch=false
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.LaunchParentProject=false

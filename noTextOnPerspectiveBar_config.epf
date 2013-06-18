@@ -1,0 +1,5 @@
+# @title Do not show a text on the perspective bar switch
+# @description Just show icons and no text on the perspective bars to save space
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.ui/SHOW_TEXT_ON_PERSPECTIVE_BAR=false
