@@ -1,0 +1,5 @@
+# @title Set default path where to look for git repositories
+# @description Where to look for git repositories by default
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.egit.ui/default_repository_dir=/usr/local/src
