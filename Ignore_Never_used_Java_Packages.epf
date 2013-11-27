@@ -1,0 +1,9 @@
+# @title Ignore never used Java packages
+# @description Ignore never used Java packages
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sat Nov 23 10:09:04 CET 2013
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.typefilter.enabled=java.awt.*;java.sql.*;
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=

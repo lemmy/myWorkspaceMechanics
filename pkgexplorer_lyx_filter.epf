@@ -1,0 +1,8 @@
+# @title Ignore LyX backup files in package explorer 
+# @description Ignore LyX backup files in package explorer 
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sun Nov 10 15:26:25 CET 2013
+/instance/org.eclipse.jdt.ui/CustomFiltersActionGroup.org.eclipse.jdt.ui.PackageExplorer.userDefinedPatterns=*~
+file_export_version=3.0

@@ -1,0 +1,8 @@
+# @title Add license header
+# @description Add license header
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Nov 22 21:10:00 CET 2013
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="filecomment_context" deleted\="false" description\="Comment for created Java files" enabled\="true" id\="org.eclipse.jdt.ui.text.codetemplates.filecomment" name\="filecomment">/*******************************************************************************\n * Copyright (c) ${year} Markus Alexander Kuppe and others. All rights reserved. \n * This program and the accompanying materials are made available under the terms \n * of the Eclipse Public License v1.0 which accompanies this distribution, and is\n * available at http\://www.eclipse.org/legal/epl-v10.html\n *\n * Contributors\:\n *   Markus Alexander Kuppe - initial API and implementation\n ******************************************************************************/</template></templates>
