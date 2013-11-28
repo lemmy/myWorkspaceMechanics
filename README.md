@@ -1,7 +1,9 @@
 myWorkspaceMechanics
 ====================
 
-A collection of workspace mechanic configs for Eclipse
+A collection of workspace mechanic configs for Eclipse. They work
+best with workspace mechanic installed into Eclipse. You can get
+workspace mechanic at https://code.google.com/a/eclipselabs.org/p/workspacemechanic/
 
 (Un)License
 ===========
