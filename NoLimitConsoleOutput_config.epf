@@ -1,0 +1,8 @@
+# @title No limit for Console output
+# @description No limit for Console output
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Jan 21 12:21:12 CET 2014
+file_export_version=3.0
+/instance/org.eclipse.debug.ui/Console.limitConsoleOutput=false

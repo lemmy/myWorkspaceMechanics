@@ -1,0 +1,8 @@
+# @title Remove task.status from mylyn task template and move bug url to footer
+# @description Remove task.status from mylyn task template and move bug url to footer
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Jan 23 11:19:37 CET 2014
+file_export_version=3.0
+/instance/org.eclipse.mylyn.team.ui/org.eclipse.mylyn.team.commit.template=${connector.task.prefix} ${task.key}\: ${task.description} \n\n\nBug-URL\: ${task.url}
