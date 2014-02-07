@@ -1,0 +1,28 @@
+
+{
+    "type": "com.google.eclipse.mechanic.UriTaskProviderModel",
+    "metadata": {
+        "description": "my set of tasks",
+        "name": "Markus",
+        "contact": "via github"
+    },
+    "tasks": [
+    "baselinewarning_config.epf",
+    "colonsAndBrackets_config.epf",
+    "content_assist.epf",
+    "editor_config.epf",
+    "egit_ui.epf",
+    "heap_monitor.epf",
+    "hierarchicalpackages_config.epf",
+    "Ignore_Never_used_Java_Packages.epf",
+    "jdt_add_license_header.epf",
+    "MylynTaskTemplate_config.epf",
+    "NoLimitConsoleOutput_config.epf",
+    "noTextOnPerspectiveBar_config.epf",
+    "nowarningonexit_config.epf",
+    "pde_include_all_incolonsAndBrackets_config.epf",
+    "pkgexplorer_lyx_filter.epf",
+    "run_config.epf",
+    "theme_config.epf"
+    ]
+}
